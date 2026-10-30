@@ -1,0 +1,2 @@
+Источник: https://github.com/anthropics/claude-plugins-official/tree/main/plugins/skill-creator/skills/skill-creator (коммит f8c5e7a)
+Автор: Anthropic. Лицензия: Apache-2.0, текст в LICENSE.txt. Файлы без изменений.
