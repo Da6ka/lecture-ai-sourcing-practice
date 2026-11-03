@@ -46,6 +46,10 @@
 
 [Talent Tech Stack](https://start.me/p/DaP1mw/talent-tech-stack), подборка Sandra Feldmann на Start.me. Инструменты сгруппированы по задачам, включая Sourcing и Outreach.
 
+![Talent Tech Stack](assets/talent-tech-stack.png)
+
+Скриншот страницы сохранён 29.10.2026.
+
 ## Juicebox и Metaview: сравнение (для самостоятельного чтения)
 
 Цифры со страниц вендоров ([Juicebox](https://docs.juicebox.ai/help/faq/free-trial-limits), [Metaview](https://www.metaview.ai/pricing)), срез 30.10.2026.
