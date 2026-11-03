@@ -2,6 +2,11 @@
 
 На практике ищем C++ Developer (HFT) через Claude: вкладку Code в приложении Claude и расширение Claude in Chrome. Учимся ставить задачу, проверять найденное и готовить черновики сообщений.
 
+## Дополнения к слайдам
+
+- [GitHub за 2 минуты: как скачать материалы](09-github-start.md).
+- [Granola: рецепт, шаблон роли и учебный пример](08-granola-hr-assessment.md).
+
 ## Порядок: что и когда открываем
 
 Репозиторий открытый, аккаунт GitHub не нужен: [github.com/Da6ka/lecture-ai-sourcing-practice](https://github.com/Da6ka/lecture-ai-sourcing-practice).
